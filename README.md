@@ -17,18 +17,7 @@ I am an Information Technology student passionate about software development, pr
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Languages
-- Java(Learning)
-- HTML
-- CSS
-- JavaScript
-- PHP(Learning)
-- mySQL(Learning)
-- Python
-
-### 🛠️ My Tech Stack & Tools
+ 
  ### 🛠️ My Tech Stack & Tools
 
 | Languages & Environments | Editors & IDEs | Design, Version Control & Collaboration |
