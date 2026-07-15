@@ -20,14 +20,17 @@ I am an Information Technology student passionate about software development, pr
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- Java
+- Java(Learning)
 - HTML
 - CSS
-- JavaScript (Learning)
-- PHP
-- mySQL
+- JavaScript
+- PHP(Learning)
+- mySQL(Learning)
+- Python
 
 ### Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 - Git
 - GitHub
 - VS Code
@@ -45,7 +48,7 @@ I am an Information Technology student passionate about software development, pr
 ### 📋 Trello-Inspired Project
 A project management application designed to organize tasks and improve productivity.
 
-### 🌐 First Website
+### 🌐 First Website("The SHOEBOX 2024")
 My first web development project focused on creating responsive and user-friendly web pages.
 
 ### 🎓 School Portfolio
@@ -68,16 +71,14 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+ 
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile
+- GitHub: https://github.com/Berlango13
+- LinkedIn: Lesibanamaitisa
 - Email: maitisalesibana@gmail.com
 
 ---
