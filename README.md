@@ -2,7 +2,7 @@
 
 🎓 IT Student | 💻 Aspiring Software Developer | 🚀 Technology Enthusiast
 
-I am an Information Technology student passionate about software development, problem-solving, and building practical solutions through technology. I enjoy creating applications, learning new programming concepts, and continuously improving my skills in software engineering and web development.
+I am an Information Technology student(21) passionate about software development, problem-solving, and building practical solutions through technology. I enjoy creating applications, learning new programming concepts, and continuously improving my skills in software engineering and web development.
 
 ---
 
