@@ -56,12 +56,9 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 - Become a Full-Stack Software Developer
 
 ---
+ ## 📊 GitHub Statistics
 
----
-
-### 📊 GitHub Activity & Stats
-
- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Berlango13&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berlango13&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="170" />
@@ -75,7 +72,7 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 ## 📫 Connect With Me
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lesibana-theri-maitisa-a130ba2ba)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
 ---
