@@ -61,18 +61,10 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 Here's a quick look at my open-source contributions, coding streaks, and most-used languages!
 
-<p align="center">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Berlango13&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berlango13&theme=radical" alt="GitHub Streak" height="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berlango13&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
 ---
 
