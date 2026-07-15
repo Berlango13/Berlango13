@@ -18,7 +18,14 @@ I am an Information Technology student(21) passionate about software development
 ---
 
  
- ### 🛠️ My Tech Stack & Tools
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=My%20Tech%20Stack&fontAlign=50&fontAlignY=40&color=gradient" />
+</p>
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,python,mysql,git,github,figma,vscode" />
+</p>
 
 | Languages & Environments | Editors & IDEs | Design, Version Control & Collaboration |
 | :--- | :--- | :--- |
