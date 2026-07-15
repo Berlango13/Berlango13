@@ -59,7 +59,24 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 ## 📈 GitHub Stats
 
- 
+ ---
+
+### 📊 GitHub Activity & Stats
+
+Here's a quick look at my open-source contributions, coding streaks, and most-used languages!
+
+<p align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" height="150" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
 ---
 
