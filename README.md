@@ -61,17 +61,14 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <!-- General Stats Card (Very Reliable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Berlango13&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Berlango13&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
   
-  <!-- Alternative Top Languages Card (Very Reliable) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berlango13&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berlango13&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats Card (Heroku server might take a moment to wake up) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berlango13&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berlango13&theme=radical" alt="GitHub Streak" height="170" />
 </p>
 
 ---
