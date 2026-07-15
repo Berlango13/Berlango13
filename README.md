@@ -74,6 +74,8 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lesibana-theri-maitisa-a130ba2ba)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitisalesibana@gmail.com)
+
 
 ---
 
