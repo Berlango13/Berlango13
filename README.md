@@ -75,9 +75,8 @@ A collection of Java projects demonstrating programming fundamentals, object-ori
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Berlango13
-- LinkedIn: Lesibanamaitisa
-- Email: maitisalesibana@gmail.com
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
 ---
 
